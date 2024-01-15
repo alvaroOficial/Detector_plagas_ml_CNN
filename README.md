@@ -4,7 +4,7 @@
 ## EJECUCIÓN
 Se tienen dos partes para el código; en la primera parte se entrena el modelo con las imágenes del dataset
  a) Haber instalado las librerías necesarias para redes CNN como tensorflow,keras
- b) Descargar y ubicar correctamente el dataset
+ b) Descargar y ubicar correctamente el dataset.<br>
  c) abrir el archivo modelo_entrennamiento.ipynb; reemplazar las rutas y ejecutarlo.
  d) Entrenar el modelo con el dataset y parametros a decisión.
  d) se tendrá como salida dos archivos .h5 con el modelo y sus pesos.
